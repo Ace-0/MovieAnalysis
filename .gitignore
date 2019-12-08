@@ -1,0 +1,10 @@
+# data
+raw_data/
+data/*.csv
+
+# text files
+*.txt
+*.pdf
+
+# python
+data/venv
